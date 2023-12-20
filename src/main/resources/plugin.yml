@@ -1,0 +1,4 @@
+name: KainoboDeathMatch
+version: '${project.version}'
+main: fr.mimifan.kainobodeathmatch.Main
+author: Mimifan

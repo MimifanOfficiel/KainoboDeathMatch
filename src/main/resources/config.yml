@@ -1,0 +1,40 @@
+spawn:
+  world: "world"
+  x: 0
+  y: 80
+  z: 0
+  yaw: 0.0
+  pitch: 0.0
+
+# {0} is the victim, {1} is the killer
+death-message: "&c{0} &8s'est fait tuer par &c{1}&8."
+
+iron-helmet:
+  item: IRON_HELMET
+  unbreakable: true
+
+iron-chestplate:
+  item: IRON_CHESTPLATE
+  unbreakable: true
+
+iron-leggings:
+  item: IRON_LEGGINGS
+  unbreakable: true
+
+iron-boots:
+  item: IRON_BOOTS
+  unbreakable: true
+
+sword:
+  item: IRON_SWORD
+  unbreakable: true
+
+bow:
+  item: BOW
+  unbreakable: true
+  enchantments:
+    ARROW_INFINITE: 1
+
+fishing-rod:
+  item: FISHING_ROD
+  unbreakable: true
